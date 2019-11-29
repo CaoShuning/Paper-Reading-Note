@@ -6,3 +6,5 @@
    #### Qs:
     1. what is content? what is blur features? How encoder them?
     2. How these loss functions work?
+   ## Introduction
+   1.Priors based method could not generalize to specific image domains, like face, text and low-illunination images.
